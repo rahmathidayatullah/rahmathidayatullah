@@ -13,6 +13,9 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 - JavaScript Ecosystem & Environment (*Real-time, Asynchronous/Concurrent Processing*)
 - React Web/Native (*Hooks, Context API, Redux*)
 - NextJS
+- VueJS
+- Laravel
+- ReactJS 
 - Express JS
 - Docker, Netlify, Firebase, Mongo Cloud/mLab, Heroku, Mysql, PostgreSQL
 
@@ -29,4 +32,4 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 
 ---
 
-© 2021 — Rahmat Hidayatullah
+© 2022 — Rahmat Hidayatullah
